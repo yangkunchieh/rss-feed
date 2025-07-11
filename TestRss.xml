@@ -1,198 +1,54 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
-<channel>
-<title>中央社即時新聞 娛樂新聞</title>
-<link>https://www.cna.com.tw/list/amov.aspx</link>
-<description>中央社即時新聞 娛樂新聞</description>
-<language>zh-tw</language>
-<copyright>中央通訊社</copyright>
-<lastBuildDate>Thu, 10 Jul 2025 15:10:15 +0800</lastBuildDate>
-<ttl>15</ttl>
-<image>
-<title>中央社即時新聞 娛樂新聞</title>
-<width>114</width>
-<height>67</height>
-<link>https://www.cna.com.tw/list/amov.aspx</link>
-<url>https://imgcdn.cna.com.tw/www/images/cna_info/cnalogo_176x117.jpg</url>
-</image>
-<item>
-<title>茄子蛋阿斌聲帶手術後推新歌 演員養分助攻</title>
-<link>https://www.cna.com.tw/news/amov/202507090399.aspx</link>
-<guid isPermaLink="false">CNA/2025-07-09/202507090399</guid>
-<pubDate>Wed, 09 Jul 2025 21:10:54 +0800</pubDate>
-<description>
-<![CDATA[ （中央社記者王心妤台北9日電）「茄子蛋」主唱黃奇斌（阿斌）曾因聲帶受損宣布休團，近年轉當演員有亮眼表現，今天宣布推出新歌「若無你我欲去佗位」，他說當過演員後，對於演唱的情緒更能掌握。 ]]>
-</description>
-</item>
-<item>
-<title>AKIRA首度SOLO登小巨蛋 率2男團嗨唱經典歌</title>
-<link>https://www.cna.com.tw/news/amov/202507090392.aspx</link>
-<guid isPermaLink="false">CNA/2025-07-09/202507090392</guid>
-<pubDate>Wed, 09 Jul 2025 20:40:37 +0800</pubDate>
-<description>
-<![CDATA[ （中央社記者王心妤台北9日電）Trendy Taipei BOOM演唱會將在台北小巨蛋舉行，主辦單位今天公布9月7日內容，林志玲的丈夫AKIRA不只將獨自演出，也會率BALLISTIK BOYZ與PSYCHIC FEVER登場。 ]]>
-</description>
-</item>
-<item>
-<title>告五人重返首唱地推新輯 聽酸民批評自嘲沒緣分</title>
-<link>https://www.cna.com.tw/news/amov/202507090388.aspx</link>
-<guid isPermaLink="false">CNA/2025-07-09/202507090388</guid>
-<pubDate>Wed, 09 Jul 2025 20:30:29 +0800</pubDate>
-<description>
-<![CDATA[ （中央社記者王心妤台北9日電）告五人樂團今天在首張EP發行後首場演唱會舉辦地，發布新輯「我們就像那些要命的傻瓜」。對於被批評商業化，告五人表示沒回應不代表沒聽見，也會以「沒緣分」自我解嘲。 ]]>
-</description>
-</item>
-<item>
-<title>八三夭霸天挑戰騎單車到高雄 笑喊歹路不可行</title>
-<link>https://www.cna.com.tw/news/amov/202507090369.aspx</link>
-<guid isPermaLink="false">CNA/2025-07-09/202507090369</guid>
-<pubDate>Wed, 09 Jul 2025 19:42:48 +0800</pubDate>
-<description>
-<![CDATA[ （中央社記者王心妤台北9日電）八三夭將於8月底在高雄巨蛋舉辦「沒有翅膀的人」演唱會，門票將於12日開賣。主辦單位今天透露，5名成員將抽籤分別用不同方式到高雄，成員霸天抽到騎腳踏車笑喊：「歹路不可行。」 ]]>
-</description>
-</item>
-<item>
-<title>F1電影佳評如潮 蘋果欲收購明年F1美國轉播權</title>
-<link>https://www.cna.com.tw/news/amov/202507090331.aspx</link>
-<guid isPermaLink="false">CNA/2025-07-09/202507090331</guid>
-<pubDate>Wed, 09 Jul 2025 18:22:26 +0800</pubDate>
-<description>
-<![CDATA[ （中央社倫敦9日綜合外電報導）英國「金融時報」（Financial Times）今天報導，由布萊德彼特（Brad Pitt）主演的「F1電影」（F1: The Movie）大獲好評，美國蘋果公司正計畫收購F1賽事明年在美國轉播權。 ]]>
-</description>
-</item>
-<item>
-<title>馬新語返鄉拍鬼片「詭鄉」 鬼屋拍攝連遇怪事</title>
-<link>https://www.cna.com.tw/news/amov/202507090294.aspx</link>
-<guid isPermaLink="false">CNA/2025-07-09/202507090294</guid>
-<pubDate>Wed, 09 Jul 2025 17:32:06 +0800</pubDate>
-<description>
-<![CDATA[ （中央社記者王心妤台北9日電）台裔導演馬新語長期在美國工作，特別返鄉回台中拍攝電影「詭鄉」，更選在真正的鬼屋拍攝。劇組接連遇到怪事，馬新語曾突然大笑不止，男主角初孟軒則不斷做惡夢。 ]]>
-</description>
-</item>
-<item>
-<title>從助理到擁有奧斯卡投票權 台灣剪輯師胡仰華成美國影藝學院新會員</title>
-<link>https://www.cna.com.tw/news/amov/202507090233.aspx</link>
-<guid isPermaLink="false">CNA/2025-07-09/202507090233</guid>
-<pubDate>Wed, 09 Jul 2025 15:45:53 +0800</pubDate>
-<description>
-<![CDATA[ （中央社記者林宏翰洛杉磯8日專電）台灣剪輯師胡仰華獲邀加入美國影藝學院。他在好萊塢闖蕩十多年，深信電影「魔法」能讓觀眾體驗不同人生，而剪輯師是幕後「看不見的藝術」執行者，最高境界是讓觀眾忘了它的存在。 ]]>
-</description>
-</item>
-<item>
-<title>台灣作曲家江宜臻摘普利亞電影配樂獎 成首名亞洲得主</title>
-<link>https://www.cna.com.tw/news/amov/202507090079.aspx</link>
-<guid isPermaLink="false">CNA/2025-07-09/202507090079</guid>
-<pubDate>Wed, 09 Jul 2025 11:00:22 +0800</pubDate>
-<description>
-<![CDATA[ （中央社記者王心妤台北9日電）台灣作曲家江宜臻獲義大利「普利亞電影配樂獎」，是首名來自亞洲的得獎者，也是第一位女性得主。她表示，很開心音樂能跨越語言跟文化觸碰人心，盼讓更多人聽見台灣的聲音。 ]]>
-</description>
-</item>
-<item>
-<title>告五人出席「超人」首映 想學瞬間移動一天唱8場</title>
-<link>https://www.cna.com.tw/news/amov/202507080418.aspx</link>
-<guid isPermaLink="false">CNA/2025-07-08/202507080418</guid>
-<pubDate>Tue, 08 Jul 2025 22:05:41 +0800</pubDate>
-<description>
-<![CDATA[ （中央社記者王心妤台北8日電）電影「超人」今晚舉辦首映會並邀請告五人樂團站台，他們現場演出新歌「黑夜狂奔」，主唱犬青笑說希望能有瞬間移動超能力，雲安也說：「這樣一天連唱8場演唱會都不是問題。」 ]]>
-</description>
-</item>
-<item>
-<title>日本天后濱崎步來台開唱 加場8/1小巨蛋多唱一天</title>
-<link>https://www.cna.com.tw/news/amov/202507080361.aspx</link>
-<guid isPermaLink="false">CNA/2025-07-08/202507080361</guid>
-<pubDate>Tue, 08 Jul 2025 19:13:34 +0800</pubDate>
-<description>
-<![CDATA[ （中央社記者王心妤台北8日電）日本歌后濱崎步4月迎來出道27週年，且睽違17年將於8月2日來台，並在台北小巨蛋開唱，今天宣布將於8月1日加場演出，7月11日晚上開賣門票。 ]]>
-</description>
-</item>
-<item>
-<title>首代民歌手吳楚楚號召 「民歌大團圓」11月登大巨蛋</title>
-<link>https://www.cna.com.tw/news/amov/202507080347.aspx</link>
-<guid isPermaLink="false">CNA/2025-07-08/202507080347</guid>
-<pubDate>Tue, 08 Jul 2025 18:44:04 +0800</pubDate>
-<description>
-<![CDATA[ （中央社記者王心妤台北8日電）「民歌大團圓」演唱會由第一代民歌手吳楚楚號召近百名民歌手與樂團，11月22日將在台北大巨蛋開唱，將不同民歌時代的好歌一網打盡，預估總長逾6小時的演唱會將演唱破百首歌。 ]]>
-</description>
-</item>
-<item>
-<title>台晶片故事「造山者」票房破1500萬 國際口碑發酵</title>
-<link>https://www.cna.com.tw/news/amov/202507080326.aspx</link>
-<guid isPermaLink="false">CNA/2025-07-08/202507080326</guid>
-<pubDate>Tue, 08 Jul 2025 18:06:19 +0800</pubDate>
-<description>
-<![CDATA[ （中央社記者王心妤台北8日電）紀錄片「造山者－世紀的賭注」全台票房截至昨天已經突破新台幣1500萬元，也登上台灣紀錄片影史票房第8名，且口碑在國際上發酵，已有來自美國與歐洲多個單位洽詢放映。 ]]>
-</description>
-</item>
-<item>
-<title>Lulu攜父母出席活動 強調家人是最佳後勤部隊</title>
-<link>https://www.cna.com.tw/news/amov/202507080289.aspx</link>
-<guid isPermaLink="false">CNA/2025-07-08/202507080289</guid>
-<pubDate>Tue, 08 Jul 2025 17:20:58 +0800</pubDate>
-<description>
-<![CDATA[ （中央社記者王心妤、實習記者邱昱君台北8日電）藝人Lulu黃路梓茵跟爸爸黃路家翔今天聯袂出席「膠囊時光」第3季首映，Lulu演藝圈打滾多年，她強調家人始終是她最忠實的粉絲，甚至還是「最佳後勤部隊」。 ]]>
-</description>
-</item>
-<item>
-<title>北流聯手台北101徵跨年煙火音樂 盼給年輕人舞台</title>
-<link>https://www.cna.com.tw/news/amov/202507080281.aspx</link>
-<guid isPermaLink="false">CNA/2025-07-08/202507080281</guid>
-<pubDate>Tue, 08 Jul 2025 17:09:41 +0800</pubDate>
-<description>
-<![CDATA[ （中央社記者王心妤、實習記者陳徹台北8日電）台北101與台北流行音樂中心聯手推出新企劃「SPARK THE MUSIC！跨年煙火音樂徵選計畫」，並以航海時代、台灣民主、科技之島、多元文化為主題，邀30歲以下創作人投稿。 ]]>
-</description>
-</item>
-<item>
-<title>「鑽石歌王」林沖辭世 享壽92歲</title>
-<link>https://www.cna.com.tw/news/amov/202507080078.aspx</link>
-<guid isPermaLink="false">CNA/2025-07-08/202507080078</guid>
-<pubDate>Tue, 08 Jul 2025 11:01:27 +0800</pubDate>
-<description>
-<![CDATA[ （中央社記者王心妤台北8日電）「鑽石歌王」林沖的臉書粉絲專頁今天發文表示，他昨晚因感染吸入性肺炎合併敗血性休克及多重器官衰竭病逝，享壽92歲，追思會消息將於確認後公布。 ]]>
-</description>
-</item>
-<item>
-<title>桃園電影節公布主視覺 繆斯女神舞動靈感膠卷</title>
-<link>https://www.cna.com.tw/news/amov/202507070283.aspx</link>
-<guid isPermaLink="false">CNA/2025-07-07/202507070283</guid>
-<pubDate>Mon, 07 Jul 2025 18:38:53 +0800</pubDate>
-<description>
-<![CDATA[ （中央社記者趙靜瑜台北7日電）第12屆桃園電影節今天公布主視覺海報及形象廣告，以繆斯女神意象營造吸睛焦點，搭配舞動成「12」的電影膠卷，帶領觀眾走進生命、幻境與真實的影像旅程。 ]]>
-</description>
-</item>
-<item>
-<title>「侏羅紀世界：重生」打趴競爭對手 美加票房奪冠</title>
-<link>https://www.cna.com.tw/news/amov/202507070128.aspx</link>
-<guid isPermaLink="false">CNA/2025-07-07/202507070128</guid>
-<pubDate>Mon, 07 Jul 2025 12:57:19 +0800</pubDate>
-<description>
-<![CDATA[ （中央社洛杉磯6日綜合外電報導）業界估計數據今天顯示，「侏羅紀世界：重生」（Jurassic World: Rebirth）在美國獨立紀念日週末把其他競爭對手吃死死，開映以亮眼的9150萬美元成績奪下北美票房冠軍。 ]]>
-</description>
-</item>
-<item>
-<title>公視+食療影集開鏡 胡宇威、李玲葦相約好好吃飯</title>
-<link>https://www.cna.com.tw/news/amov/202507060170.aspx</link>
-<guid isPermaLink="false">CNA/2025-07-06/202507060170</guid>
-<pubDate>Sun, 06 Jul 2025 17:05:51 +0800</pubDate>
-<description>
-<![CDATA[ （中央社記者邱祖胤台北6日電）公視+頻道自製食療系影集「就算一個人也可以好好的吃飯2」6月下旬正式開鏡，由胡宇威、李玲葦擔綱演出，透過美食探索人生與愛情。 ]]>
-</description>
-</item>
-<item>
-<title>台北電影獎評審內幕 破紀錄影帝萬洛首輪投票就勝出</title>
-<link>https://www.cna.com.tw/news/amov/202507060002.aspx</link>
-<guid isPermaLink="false">CNA/2025-07-06/202507060002</guid>
-<pubDate>Sun, 06 Jul 2025 00:23:33 +0800</pubDate>
-<description>
-<![CDATA[ （中央社記者王心妤台北5日電）第27屆台北電影獎今晚頒獎落幕，泰國演員萬洛成為北影史上首位外籍影帝，北影總監李亞梅表示，他在首次投票就以7票勝出並跟藍葦華競爭；影后高伊玲最後也以8票勝過張艾嘉。 ]]>
-</description>
-</item>
-<item>
-<title>台北電影節 泰國演員萬洛破紀錄封帝、高伊玲摘女主角</title>
-<link>https://www.cna.com.tw/news/amov/202507050238.aspx</link>
-<guid isPermaLink="false">CNA/2025-07-05/202507050238</guid>
-<pubDate>Sat, 05 Jul 2025 22:18:59 +0800</pubDate>
-<description>
-<![CDATA[ （中央社記者王心妤台北5日電）2025台北電影節今晚頒獎，由「我家的事」高伊玲奪女主角；「白衣蒼狗」泰國演員萬洛封影帝，也破紀錄成為首名外籍北影影帝；最大獎「百萬首獎」頒給紀錄片「大風之島」。 ]]>
-</description>
-</item>
-</channel>
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>中華民國護照申辦資訊</title>
+    <link>https://www.boca.gov.tw/</link>
+    <description>護照11天件辦理資訊與流程說明</description>
+    <language>zh-TW</language>
+    <item>
+      <title>中華民國護照 11天件</title>
+      <link>https://www.boca.gov.tw/</link>
+      <guid isPermaLink="false">TWTW1C</guid>
+      <description><![CDATA[
+        <p><b>簡稱：</b>護照11天</p>
+        <p><b>辦理工作天數：</b>6天</p>
+        <p><b>須親自辦理：</b>否</p>
+        <p><b>價格：</b>新台幣 1800 元</p>
+        <p><b>停留天數：</b>由海關決定</p>
+        <h3>申辦須知</h3>
+        <p>此辦證項目為年滿14歲之申請者辦理。首次辦理需已做人別確認的簡式護照資料表才能代送。</p>
+        <p>役男、國軍人員及替代役出國須申請備查許可。</p>
+        <h3>護照委任書說明</h3>
+        <p>本人親自送件請填寫D式委任書；非本人送件請填寫E式委任書並附關係證明。</p>
+        <h3>數位照片電子檔規定</h3>
+        <ul>
+          <li>檔案名稱請含中文名及身分證字號</li>
+          <li>格式JPG/JPEG，RGB色彩，大小不超過5MB</li>
+          <li>解析度至少531x413像素</li>
+        </ul>
+        <h3>申辦材料</h3>
+        <ul>
+          <li>中華民國身分證（正本）1份</li>
+          <li>護照規格照片（實體及電子檔）1份</li>
+          <li>D式委任書（本人親送件）1份</li>
+          <li>舊護照正本1份（有效期內）</li>
+        </ul>
+      ]]></description>
+      <office>
+        <name>外交部領事事務局</name>
+        <address>臺北市中正區濟南路1段2之2號3~5樓</address>
+        <tel>02-2343-2888</tel>
+        <web>www.boca.gov.tw/</web>
+        <worktime>週一至週五 08:30-17:00，每週三延長至20:00，週末及國定假日休息</worktime>
+      </office>
+      <office>
+        <name>外交部南部辦事處</name>
+        <address>高雄市苓雅區政南街6號3~4樓</address>
+        <tel>07-715-6600</tel>
+        <web>www.boca.gov.tw/</web>
+        <worktime>週一至週五 08:30-17:00，每週三延長至20:00，週末及國定假日休息</worktime>
+      </office>
+    </item>
+  </channel>
 </rss>
+
